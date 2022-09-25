@@ -10,7 +10,7 @@ public class Variable {
 
     public static void main1 (String[] args){
    
-    	String city = "NYC";
+    	String city = "BD";
     	myMethod2("Queens");		
     	
     }                                          // Local variable - variable declared in methods
